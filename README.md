@@ -1,1 +1,1 @@
-# jquery v2.0 source analysize 
+jquery v2.0 源码功能模块分析
